@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Global Accelerex Internship Challenge</string>
+    <string name="description">Description</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="image_description">Image of the person</string>
+</resources>
